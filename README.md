@@ -9,3 +9,4 @@ I am interested in web/app development solutions using open source technologies.
 ### Certificate
 - Engineer Information Processing (정보처리기사)
 - SQL developer (SQLD)
+- Network Administrator Level-2(네트워크관리사 2급)

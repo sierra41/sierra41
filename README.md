@@ -39,3 +39,4 @@ Looking forward to connecting and collaborating! <br>
 </div>  
   
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:actin45@gmail.com)](mailto:actin45@gmail.com)

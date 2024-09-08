@@ -5,17 +5,13 @@
 	
 </div>
 
-## I am
-Hello, I'm Sierra, a software developer with about 3 years of experience in the fintech industry. <br>
+## Hello, I'm Sierra <img src="/src/wave.gif" height="30px"> 
+I'm a software developer with about 3 years of experience in the fintech industry. <br>
 I specialize in Java programming and have worked on various projects, focusing on delivering secure and efficient solutions. <br>
 I'm passionate about learning new technologies and constantly improving my skills. <br>
-Looking forward to connecting and collaborating!<br>
-<br>
+Looking forward to connecting and collaborating! <br>
 
-### Certificate
-- Engineer Information Processing (정보처리기사)
-- SQL developer (SQLD)
-- Network Administrator Level-2(네트워크관리사 2급)
+<br>
 
 
 ## I am using

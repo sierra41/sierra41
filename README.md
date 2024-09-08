@@ -38,6 +38,6 @@ Looking forward to connecting and collaborating! <br>
 </a>  
 </div>  
 
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=www.linkedin.com/in/sierra-jang)](www.linkedin.com/in/sierra-jang)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=www.linkedin.com/in/sierra-jang)](www.linkedin.com/in/sierra-jang)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sierra.jang.tech@gmail.com)]

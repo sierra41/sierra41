@@ -29,7 +29,7 @@ Looking forward to connecting and collaborating! <br>
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.linkedin.com/company/linkd-pro" target="_blank">
+<a href="www.linkedin.com/in/sierra-jang" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </a>

@@ -3,12 +3,6 @@
 
 ![KakaoTalk_Photo_2024-09-08-22-47-36](https://github.com/user-attachments/assets/cf4f7ab9-133e-49b5-8bc7-1af604431393)
 
-
-![KakaoTalk_Photo_2024-09-08-22-44-41](https://github.com/user-attachments/assets/642529c5-6d8b-430d-a0ff-9e17f11f6558)
-
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sierra41.github.io/)](https://sierra41.github.io/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:actin45@gmail.com)](mailto:actin45@gmail.com)
 	
 </div>
 

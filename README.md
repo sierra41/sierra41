@@ -1,8 +1,6 @@
 
 <div align=center>
 
-
-![KakaoTalk_Photo_2024-09-08-22-44-47](https://github.com/user-attachments/assets/2b24b11e-3f81-493e-8485-4eb4d9b24101)
 ![KakaoTalk_Photo_2024-09-08-22-44-41](https://github.com/user-attachments/assets/642529c5-6d8b-430d-a0ff-9e17f11f6558)
 
 

@@ -5,12 +5,39 @@
 	
 </div>
 
-Hello 
-I'm Sierra. Back-End Developer. <br>
-
+Hello, I'm Sierra, a software developer with about 3 years of experience in the fintech industry. <br>
+I specialize in Java programming and have worked on various projects, focusing on delivering secure and efficient solutions. <br>
+I'm passionate about learning new technologies and constantly improving my skills. <br>
+Looking forward to connecting and collaborating!<br>
 <br>
 
 ### Certificate
 - Engineer Information Processing (정보처리기사)
 - SQL developer (SQLD)
 - Network Administrator Level-2(네트워크관리사 2급)
+
+
+## I am using
+<div align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <a href="https://discordapp.com/users/240841326386610177/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</div>
+<br/> 
+
+## Connect with me  
+<div align="center">
+<a href="https://www.linkedin.com/company/linkd-pro" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</a>
+<a href="sierra.jang.tech@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+

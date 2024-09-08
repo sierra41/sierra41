@@ -7,7 +7,7 @@
 
 Hi 👋
 I'm Sierra. Back-End Developer in Korea. <br>
-I am interested in web/app development solutions using open source technologies. 
+
 <br>
 
 ### Certificate

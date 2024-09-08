@@ -3,6 +3,9 @@
 
 ![KakaoTalk_Photo_2024-09-08-22-47-36](https://github.com/user-attachments/assets/cf4f7ab9-133e-49b5-8bc7-1af604431393)
 
+![KakaoTalk_Photo_2024-09-09-01-03-56 001](https://github.com/user-attachments/assets/11f06c6d-87df-44cf-be0c-410b1c1e602a)
+
+![KakaoTalk_Photo_2024-09-09-01-03-56 002](https://github.com/user-attachments/assets/83a63c71-e5ed-45b1-9002-145e2a15eee4)
 	
 </div>
 

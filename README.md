@@ -34,8 +34,8 @@ Looking forward to connecting and collaborating! <br>
 </a>
 </a>
 <a href="" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:actin45@gmail.com alt=Gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sierra.jang.tech@gmail.com alt=Gmail style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sierra.jang.tech@gmail.com)
+(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sierra.jang.tech@gmail.com)

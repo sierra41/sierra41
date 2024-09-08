@@ -37,5 +37,7 @@ Looking forward to connecting and collaborating! <br>
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sierra.jang.tech@gmail.com alt=Gmail style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sierra.jang.tech@gmail.com)
+
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=www.linkedin.com/in/sierra-jang)](www.linkedin.com/in/sierra-jang)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sierra.jang.tech@gmail.com)]

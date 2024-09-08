@@ -5,8 +5,8 @@
 	
 </div>
 
-Hi 👋
-I'm Sierra. Back-End Developer in Korea. <br>
+Hello 
+I'm Sierra. Back-End Developer. <br>
 
 <br>
 

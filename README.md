@@ -1,4 +1,7 @@
+
 <div align=center>
+
+![KakaoTalk_Photo_2024-09-08-22-40-15](https://github.com/user-attachments/assets/2ad6e720-6666-413a-82c6-ab4c55dce10e)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sierra41.github.io/)](https://sierra41.github.io/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:actin45@gmail.com)](mailto:actin45@gmail.com)

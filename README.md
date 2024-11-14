@@ -7,9 +7,7 @@
 </div>
 
 ## Hello, I'm Sierra <img src="/src/wave.gif" height="30px"> 
-I'm a software developer with about 3 years of experience in the fintech industry. <br>
-I specialize in Java programming and have worked on various projects, focusing on delivering secure and efficient solutions. <br>
-I'm passionate about learning new technologies and constantly improving my skills. <br>
+I'm a java software engineer with experience in the fintech industry. <br>
 Looking forward to connecting and collaborating! <br>
 
 <br>
